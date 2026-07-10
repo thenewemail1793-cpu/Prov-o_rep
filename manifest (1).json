@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Sistema_de_gestao",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SGALBA",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
